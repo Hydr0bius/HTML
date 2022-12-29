@@ -1,8 +1,12 @@
 # Ruta de aprendizaje HTML
 
-En el presente docuemnto se muestra la estructura del HTML así como las cosas que hay que tener en cuenta al momento de desarrollar el esqueleto para páginas web.
+En el presente docuemnto se muestra la estructura del HTML así como las cosas que hay que tener en cuenta al momento de desarrollar el esqueleto para páginas web. Se ha reacabado esta información unicamente como una consulta y no con fines lucrativos.
 
 Se explica el funcionamiendo de cada parte asi como ejemplo de los usos que se le puede dar.
+
+>La presente información se obtuvo del libro: ***El gran libro de HTML6, CSS3 y JavaScript 3er edición J.D Gauchat*** 2017 *MARCOMBO*, S.A.
+
+Las tablas no se mencionaran en esta documentación.
 
 ## Los temas a ver son los siguientes:
 
