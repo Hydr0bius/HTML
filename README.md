@@ -4,9 +4,11 @@ En el presente docuemnto se muestra la estructura del HTML así como las cosas q
 
 Se explica el funcionamiendo de cada parte asi como ejemplo de los usos que se le puede dar.
 
->La presente información se obtuvo del libro: ***El gran libro de HTML6, CSS3 y JavaScript 3er edición J.D Gauchat*** 2017 *MARCOMBO*, S.A.
+>La presente información se obtuvo del libro: ***El gran libro de HTML5, CSS3 y JavaScript 3er edición J.D Gauchat*** 2017 *MARCOMBO*, S.A.
 
 Las tablas no se mencionaran en esta documentación.
+
+Para ver los temas de **CSS3** de click al siguiente enlace [CSS](https://github.com/Hydr0bius/CSS/blob/main/README.md). Se recomienda tener la base de *HTML* antes de empezar a ver *CSS*.
 
 ## Los temas a ver son los siguientes:
 
