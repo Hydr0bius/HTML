@@ -17,15 +17,7 @@ Para ver los temas de **CSS3** de click al siguiente enlace [CSS](https://github
    * Margin auto
    * Estructura
 2. [Lo básico](02%20-%20Lo%20básico/basico.md)
-   * Etiquetas
-   * Elementos
-   * Atributos
-   * Elementos vacios
-   * Elementos anidados
-   * Elementos bloque
-   * Elementos en linea
-   * Comentarios
-   * Atributos generales
+
 3. [Formato de texto](03%20-%20Formato%20de%20texto/formatoDeTexto.md)
    * p
    * strong
