@@ -85,7 +85,7 @@ Para ver los temas de **CSS3** de click al siguiente enlace [CSS](https://github
    * span
    * summary
    * footer
-8. [HTML & JS](08%20-%20HTML%20con%20Js/HTML&Js.md)
+8. [HTML & JS](https://hydr0bius.github.io/coming-soon/)
     * svg
     * audio
     * video
