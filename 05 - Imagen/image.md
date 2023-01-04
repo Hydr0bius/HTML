@@ -21,7 +21,7 @@
 ```HTML
 <figure>
     <img src="./image/cabeceras.png" alt="cabeceras">
-        <figcaption>Cabecera para contenido</figcaption>
+        <figcaption>Ejemplo del uso de figure</figcaption>
 </figure>
 ```
 ![figure](./../image/figure.jpg)
