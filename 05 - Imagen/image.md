@@ -24,7 +24,7 @@
         <figcaption>Cabecera para contenido</figcaption>
 </figure>
 ```
-![figure](./../image/figure.png)
+![figure](./../image/figure.jpg)
 
 **Alt** Atributo que especifica el texto que se muestra cuando la imagen no se puede cargar.
 
