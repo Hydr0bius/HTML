@@ -24,7 +24,19 @@ Un formulario puede incluir diferentes herramientas para permitir al usuario sel
 
 **< select>** Este elemento crea una lista de opciones que el usuario puede elegir. Trabaja junto con el elemento **< option>** para definir cada opción y el elemento **< optgroup>** para organizar las opciones en grupos.
 
+ ```HTML
+    <select name="lugares" id="lugares">
+    <option value="Norte" disabled>Norte</option>
+    <option value="Centro">Centro</option>
+    <option value="Sur">Sur</option>
+    </select>
+```
+
 **< button>** Este elemento crea un botón. Incluye el atributo *type* para definir el propósito del botón. Los valores disponibles son *submit* para enviar el formulario, *reset* para reiniciar el formulario, y *button* para realizar tareas personalizadas.
+
+ ```HTML
+        <button>Click here</button>
+```
 
 **< output>** Este elemento representa un resultado producido por el formulario. Se implementa por medio de código JavaScript para mostrar el resultado de una operación al usuario.
 
@@ -41,6 +53,12 @@ Un formulario puede incluir diferentes herramientas para permitir al usuario sel
 ```
 
 **< fieldset>** Este elemento agrupa otros elementos de formulario. Se usa para crear secciones dentro de formularios extensos. El elemento puede contener un elemento **< legend>** para definir el título de la sección.
+
+ ```HTML
+         <fieldset>
+            <legend>Inputs</legend>
+        </fieldset>
+```
 
 Para incluir un formulario en nuestro documento, tenemos que declararlo con el elemento **< form>**, y luego incorporar en su interior todos los elementos que el usuario necesitara para insertar la información y enviar al servidor.
 
