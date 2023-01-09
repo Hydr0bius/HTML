@@ -16,6 +16,10 @@ Un formulario puede incluir diferentes herramientas para permitir al usuario sel
 
 **< input>** Este elemento crea un campo de entrada. Puede recibir diferentes tipos de entra, dependiendo del valor del atributo *type*, para ver más de click al siguiente enlace [input](../06%20-%20Inputs/inputs.md).
 
+ ```HTML
+    <input type="text" name="tarea" placeholder="ingrese tarea">
+```
+
 **< textarea>** Este elemento crea un campo de entrada para insertar múltiples líneas de texto.
 
 **< select>** Este elemento crea una lista de opciones que el usuario puede elegir. Trabaja junto con el elemento **< option>** para definir cada opción y el elemento **< optgroup>** para organizar las opciones en grupos.
@@ -31,6 +35,10 @@ Un formulario puede incluir diferentes herramientas para permitir al usuario sel
 **< datalist>** Este elemento crea un listado de valores disponibles para otros controles. Trabaja junto con el elemento **< option>** para definir cada valor.
 
 **< label>** Este elemento crea una etiqueta para identificar un elemento de formulario.
+ ```HTML
+    <label for="work">Tarea</label>
+    <input type="text" id="work" name="tarea" placeholder="ingrese tarea">
+```
 
 **< fieldset>** Este elemento agrupa otros elementos de formulario. Se usa para crear secciones dentro de formularios extensos. El elemento puede contener un elemento **< legend>** para definir el título de la sección.
 
