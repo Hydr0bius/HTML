@@ -59,6 +59,7 @@ Un formulario puede incluir diferentes herramientas para permitir al usuario sel
             <legend>Inputs</legend>
         </fieldset>
 ```
+![fieldset](../image/fieldset.JPG)
 
 Para incluir un formulario en nuestro documento, tenemos que declararlo con el elemento **< form>**, y luego incorporar en su interior todos los elementos que el usuario necesitara para insertar la información y enviar al servidor.
 
