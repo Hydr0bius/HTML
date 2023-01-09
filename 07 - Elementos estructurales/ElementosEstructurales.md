@@ -141,6 +141,6 @@ Al elemento **< a>** se le puede incluir el atributo **target** para especificar
 
 *_top* El documento se abre en la ventana actual.
 
-![body](../image/body.jpg)
+![body](../image/body.JPG)
 
 [Volver &ldca;](../README.md)
