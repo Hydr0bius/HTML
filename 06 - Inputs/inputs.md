@@ -188,6 +188,9 @@ Step El valor de este atributo determina el número por el cual el valor del cam
 
 **Range** Crea un campo que nos permite seleccionar un número desde un rango de valores.
 
+---
+Vista de los diferentes inputs que se manejan:
+
 ![input](../image/input.JPG)
 
 [Volver &ldca;](../README.md)
